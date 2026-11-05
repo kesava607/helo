@@ -9,3 +9,4 @@ Apples
 Bananas
 Cheese
 Butter Milk
+Rice
