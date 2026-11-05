@@ -7,3 +7,4 @@ Eggs
 Bread
 Apples
 Bananas
+Cheese
