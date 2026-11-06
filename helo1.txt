@@ -10,3 +10,4 @@ Bananas
 Cheese
 Butter Milk
 Rice
+Chips
